@@ -57,7 +57,7 @@ Pls see below
 
 ## Installation
 
-    npm install gf-fixjs
+    npm install js-fix
 
 ## License
 
