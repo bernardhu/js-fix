@@ -10,7 +10,7 @@
   ],
   "dependencies": {
     "sax": "1.1.4",
-    "moment": "2.11.2"
+    "moment": "2.19.3"
   },
   "scripts": {
     "test": "node test/test.js"
